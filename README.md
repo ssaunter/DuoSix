@@ -46,12 +46,9 @@ This design utilizes mostly press-fit connection. The PCB is mounted to the bott
 * 6x 1N4148 diodes
 * 8x SK6812 MINI-E LEDs
 * 4x M3x5mx4mm heatset inserts
+* 3D Printed Case Components (Top, Bottom, Diffuser)
 
 **Self Sourced:**
 * 1x PCF8574N IO expander
-* 1x 16 pin IC socket
-* 8x 0.1 μF ceramic capacitors
-* 1x 4 pin female socket
-* 3D Printed Case Components (Top, Bottom, Diffuser)
+* 1x 4 pin female socket (raises OLED up)
 * 4x M3x6mm screws
-* 4x rubber feet
