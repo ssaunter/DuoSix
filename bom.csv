@@ -1,12 +1,11 @@
-Part,Quantity,Link
-Seeed Studio XIAO RP2040,1,https://blueprint.hackclub.com/hackpad/parts
-MX-Style Switches,6,https://blueprint.hackclub.com/hackpad/parts
-Rotary Encoders (EC11),2,https://blueprint.hackclub.com/hackpad/parts
-1N4148 Diodes,5,https://blueprint.hackclub.com/hackpad/parts
-0.91 inch OLED,1,https://blueprint.hackclub.com/hackpad/parts
-DSA Keycaps,6,https://blueprint.hackclub.com/hackpad/parts
-SK6812 MINI-E LEDs,8,https://blueprint.hackclub.com/hackpad/parts
-M3x5mx4mm heatset inserts,4,https://blueprint.hackclub.com/hackpad/parts
-PCF8574P IO Expander,1,https://www.digikey.com/short/qpvwbhz7
-4 Pin Female Header,1,https://www.digikey.com/short/jwctq253
-
+Part,Quantity,Price,Link,Total
+Seeed Studio XIAO RP2040,1,$4.68 ,https://www.digikey.com/en/products/detail/seeed-technology-co-ltd/102010428/14672129?gclsrc=aw.ds&gad_source=1&gad_campaignid=20243136172&gbraid=0AAAAADrbLljlYbHqSh6BivUkmcKZk_tfR&gclid=CjwKCAiAtq_NBhA_EiwA78nNWMZEfTBimYjz0B5NqlJ7stsi0GNK5b1G-1UMSQ7T3eVNBrmpqn27ChoCTokQAvD_BwE,$4.68 
+MX-Style Switches,6,$5.70 ,https://www.digikey.com/en/products/detail/adafruit-industries-llc/5123/14617350?gclsrc=aw.ds&gad_source=1&gad_campaignid=20243136172&gbraid=0AAAAADrbLljlYbHqSh6BivUkmcKZk_tfR&gclid=CjwKCAiAtq_NBhA_EiwA78nNWNFTDhJwFrJt32pbjZFQJTEKb6PMKkdsCqYNHU1WNQr2DZ9nfJQ3wxoCOL8QAvD_BwE,$10.38 
+Rotary Encoders (EC11),2,$1.92 ,https://www.digikey.com/en/products/detail/bourns-inc/PEC11R-4015F-N0024/4499636?gclsrc=aw.ds&gad_source=1&gad_campaignid=17336967819&gbraid=0AAAAADrbLlh-PVi2J9SoZH-UkuG4qfL5a&gclid=CjwKCAiAtq_NBhA_EiwA78nNWDia4RVrEnAWZ9rWnXgpajXFeQO3Szg8fiWTmx7Cb8rhs0KBs6R8MRoC0zAQAvD_BwE,$12.30 
+1N4148 Diodes,5,$0.50 ,https://www.digikey.com/en/products/detail/onsemi/1N4148TA/1532747?gclsrc=aw.ds&gad_source=1&gad_campaignid=20228387720&gbraid=0AAAAADrbLlhzB4Q4pDvqGShO5mIcQG7Lz&gclid=CjwKCAiAtq_NBhA_EiwA78nNWNS7qoabkIjE63qttaubcqW37cLUP06rJATS-9bPKeoPvvKI3UG8-RoCzqAQAvD_BwE,$12.80 
+0.91 inch OLED,1,$7.88 ,https://www.digikey.com/en/products/detail/midas-displays/MDOB128032GV-WI/25616500?gclsrc=aw.ds&gad_source=1&gad_campaignid=20228387720&gbraid=0AAAAADrbLlhzB4Q4pDvqGShO5mIcQG7Lz&gclid=CjwKCAiAtq_NBhA_EiwA78nNWD0w6JiPGib2fozu59hf9jESMOgAVCKktxz5XWjVxzwKB90pg5BnsBoCpHoQAvD_BwE,$20.68 
+DSA Keycaps,6,$4.95 ,https://www.digikey.com/en/products/detail/adafruit-industries-llc/5039/14313478?gclsrc=aw.ds&gad_source=1&gad_campaignid=20243136172&gbraid=0AAAAADrbLljlYbHqSh6BivUkmcKZk_tfR&gclid=CjwKCAiAtq_NBhA_EiwA78nNWPbNqrYhNrRWiFj946YXZmVJgetXh2KOpaLROzTd7gShU_ZDNb4LtxoCj08QAvD_BwE,$25.63 
+SK6812 MINI-E LEDs,8,$2.95 ,https://www.digikey.com/en/products/detail/adafruit-industries-llc/4960/14302512?gclsrc=aw.ds&gad_source=1&gad_campaignid=20228387720&gbraid=0AAAAADrbLlhzB4Q4pDvqGShO5mIcQG7Lz&gclid=CjwKCAiAtq_NBhA_EiwA78nNWFC90_6bOY5eGkexCoDleK6ZOWbhUGQLauqRHHyldeCrKskB8t4P-hoCIyUQAvD_BwE,$28.58 
+M3x5mx4mm heatset inserts,4,$4.99 ,https://www.amazon.com/Aoserge-100Pcs-Brass-Heat-Inserts/dp/B0FM45X5TD/ref=sr_1_14?dib=eyJ2IjoiMSJ9.eXzhqRMlJC2fmyu80x2jRVP5nN2e26Vbdsg_WmWWxivMvp5EGVSLUnySP6szaua3VMV9RDnYpR5bLwMiDNhylgab66qU5lzRTT-_2g-4FZbLdLs7qpbKOgKdcQCEII8kKQmJtnyKZ53-8Oiz9uvWWRvaK4hOlC1c2VLnOEtGtc2ywdoXOAZzpCDwFuwRZhhj5Jc8p-xskGJNAykkRWfeLuGUxdUUp19Uu9M4QYhQwns.Q7tCx8yJoOv24AUART58fMd7B3f9EyQX4DrVLHRoapE&dib_tag=se&keywords=m3+heat+set+inserts&qid=1772931280&sr=8-14,$33.57 
+PCF8574P IO Expander,1,$2.66 ,https://www.digikey.com/short/qpvwbhz7,$36.23 
+4 Pin Female Header,1,$0.37 ,https://www.digikey.com/short/jwctq253,$36.60 
